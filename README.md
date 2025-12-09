@@ -1,5 +1,5 @@
 # Overview
-KG-VulMiner, a novel, end-to-end framework that combines knowledge graphs with multimodal large language model (MLLM) for automated vulnerability discovery.
+CG-VulMiner, a dual-agent vulnerability discovery framework. Its core innovation lies in deeply integrating a Vision-Language Model (VLM)​ into the vulnerability analysis workflow. 
 
 The overall system architecture and workflow are as follows:
 ```md
