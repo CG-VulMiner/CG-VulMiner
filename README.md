@@ -1,7 +1,7 @@
 # Overview
 Recent studies show that large language models (LLMs) offer a promising new approach to building vulnerability discovery tools. However, existing methods still face significant challenges, such as difficulty in representing complex code call relationships, over-reliance on traditional static analysis tools (SAST), high false positive rates, and a lack of cost-aware inference strategies.
 
-To address these issues, we propose ***CG-VulMiner***, a ***dual-agent vulnerability discovery framework***. Its core innovation lies in deeply integrating a ***Vision-Language Model (VLM)***​ into the analysis workflow. The VLM contributes two key advances:
+To address these issues, we propose ***CG-VulMiner***, a ***dual-agent vulnerability discovery framework***. Its core innovation lies in deeply integrating a Vision-Language Model(***VLM***)​ into the analysis workflow. The VLM contributes two key advances:
 
 ***Call Graph Comprehension***:​ By processing call graph images during function summarization, the VLM identifies the function's role and enables targeted analyses like taint propagation and checking security measures.
 
