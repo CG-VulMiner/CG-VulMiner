@@ -55,13 +55,3 @@ CVE-2025-23349: NVIDIA Megatron-LM for all platforms contains a vulnerability in
 # Demo
 - [Vulnerability Analysis Agent Demo](demo/vulnerability_analysis_agent_demo.mp4)
 - [Vulnerability PoC Agent Demo](demo/vulnerability_poc_agent_demo.mp4)
-
-<video controls width="100%">
-  <source src="demo/vulnerability_analysis_agent_demo.mp4" type="video/mp4">
-  Vulnerability Analysis Agent Demo
-</video>
-
-<video controls width="100%">
-  <source src="demo/vulnerability_poc_agent_demo.mp4" type="video/mp4">
-  Vulnerability PoC Agent Demo
-</video>
